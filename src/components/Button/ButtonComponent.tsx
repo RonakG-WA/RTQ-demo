@@ -1,12 +1,9 @@
 import { Button } from "@mui/material";
-// import Grid from "@mui/material/Grid";
-import { FC } from "react";
 import { buttonProps } from "./buttonProps";
 
-const ButtonComponent: FC<buttonProps> = (props) => {
+const ButtonComponent: React.FC<buttonProps> = (props) => {
     return (
         <>
-            {/* <Grid sx={props.sx}> */}
             <Button
                 sx={props.sx}
                 type={props.type}
@@ -18,7 +15,6 @@ const ButtonComponent: FC<buttonProps> = (props) => {
             >
                 {props.name}
             </Button>
-            {/* </Grid> */}
         </>
     )
 }
