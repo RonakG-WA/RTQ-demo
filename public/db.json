@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "b748",
+      "name": "dhara radadiya",
+      "email": "dhara@gmail.com",
+      "phone": "7896325156",
+      "active": true,
+      "gender": "female"
+    },
+    {
+      "id": "9080",
+      "name": "neha sanghani",
+      "email": "neha@gmail.com",
+      "phone": "8977526523",
+      "active": false,
+      "gender": "female"
+    },
+    {
+      "id": "04eb",
+      "name": "dhara vadgama",
+      "email": "dharavadgama@gmail.com",
+      "phone": "9806355285",
+      "active": true,
+      "gender": "female"
+    },
+    {
+      "id": "9866",
+      "name": "harvi patel",
+      "email": "harvi@gmail.com",
+      "phone": "7852365233",
+      "active": false,
+      "gender": "female"
+    },
+    {
+      "id": "43d8",
+      "name": "astha pandit",
+      "email": "apandit@gmail.com",
+      "phone": "9898334480",
+      "active": false,
+      "gender": "female"
+    },
+    {
+      "id": "1f37",
+      "name": "Ronak Gadhiya",
+      "email": "ronakgadhiya3@gmail.com",
+      "phone": "9586213110",
+      "gender": "male",
+      "active": true
+    },
+    {
+      "id": "0a78",
+      "name": "yash vaderiya",
+      "email": "yashv@gmail.com",
+      "phone": "789635241",
+      "gender": "male",
+      "active": true
+    }
+  ]
+}
